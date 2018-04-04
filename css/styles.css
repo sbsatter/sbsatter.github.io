@@ -43,6 +43,10 @@ main {
 	text-align: center;
 }
 
+main > .profile-photo img {
+	border: 1px black solid;
+}
+
 main > .intro {
 	font-family: 'Reem Kufi', sans-serif;
 	font-size: 3.75em;
