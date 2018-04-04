@@ -1,5 +1,6 @@
-My own developer landing page :) Provided by Dinesh Pandiyan (https://codeburst.io/@flexdinesh).
-
+My own developer landing page :)
+Demo source coded provided by Dinesh Pandiyan (https://codeburst.io/@flexdinesh).
+Github repo: https://github.com/flexdinesh/dev-landing-page
 # Dev Landing Page
 
 Minimal landing page for developers.
@@ -18,7 +19,7 @@ Dev Landing Page comes in 9 **material themes**.
 
 ![9 Material Themes](https://image.ibb.co/jJVKCn/dev_landing_page_themes.jpg)
 
-If none of these themes fit within your taste, it's quite easy to customize and create your own too. 
+If none of these themes fit within your taste, it's quite easy to customize and create your own too.
 
 ## GitHub Pages
 
