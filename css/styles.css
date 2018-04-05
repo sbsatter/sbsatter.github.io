@@ -33,6 +33,11 @@ html {
 }
 
 /* Custom Styles */
+nav {
+	display: block;
+	color: #303F9F;
+	background: #FAFAFA;
+}
 
 main {
 	display: flex;
