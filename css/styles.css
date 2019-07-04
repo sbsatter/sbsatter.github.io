@@ -50,6 +50,7 @@ main {
 
 main > .profile-photo img {
 	border: 1px black solid;
+	border-radius: 50%;
 }
 
 main > .intro {
@@ -77,4 +78,9 @@ main > .tagline {
 	margin-left: 0.675rem;;
 	width: 2.65rem;
 	height: 2.65rem;
+}
+
+a:link, a:visited, a:hover, a:active {
+	text-decoration: none;
+	color: inherit;
 }
